@@ -1,0 +1,1 @@
+emulator -avd $1 -writable-system -selinux permissive
